@@ -68,7 +68,7 @@ However, there are a couple of minor changes.
 
 * Language Changes
 
-First, the compilers have been updated to allow the index expression *x[1.0*<<*s]* where *s* is an *untyped*constant*
+First, the compilers have been updated to allow the index expression *x[1.0*<<*s]* where *s* is an *unsigned*integer*
 
     package main
 
